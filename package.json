@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "globals": "^15.9.0",
+    "streamsaver": "^2.0.6",
     "vite-plugin-node-polyfills": "^0.22.0",
     "vue-custom-scrollbar": "^1.4.4"
   },
